@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I teach Programming for the Internet I at Buffalo State University.
+
 <!--
 **ericnagel/ericnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
