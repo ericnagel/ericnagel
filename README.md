@@ -6,6 +6,8 @@
 -   CSS
 -   JavaScript
 
+![CIS 375](https://skillicons.dev/icons?i=html,css,js)
+
 <!--
 **ericnagel/ericnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
