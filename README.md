@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I teach Programming for the Internet I at Buffalo State University. This includes:
+👨‍🏫 I teach Programming for the Internet I at Buffalo State University. This includes:
 
 -   HTML
 -   CSS
