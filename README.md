@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I teach Programming for the Internet I at Buffalo State University.
+I teach Programming for the Internet I at Buffalo State University. This includes:
+
+-   HTML
+-   CSS
+-   JavaScript
 
 <!--
 **ericnagel/ericnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
