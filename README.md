@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm editing this file. Yay!!!
-
 👨‍🏫 I teach Programming for the Internet I at Buffalo State University. This includes:
 
 -   HTML
 -   CSS
 -   JavaScript
 
-![CIS 375](https://skillicons.dev/icons?i=html,css,js)
+![CIS 375](https://skillicons.dev/icons?i=html,css,js,php,mysql)
 
 <!--
 **ericnagel/ericnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
