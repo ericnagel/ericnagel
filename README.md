@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm editing this file. Yay!!!
+
 👨‍🏫 I teach Programming for the Internet I at Buffalo State University. This includes:
 
 -   HTML
