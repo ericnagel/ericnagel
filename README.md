@@ -4,10 +4,9 @@ I'm Eric Nagel (he/him/his), a dynamic technology leader with 25+ years of exper
 
 ## 🚀 Current Roles
 
-**Principal Full-Stack Software Engineer** at Imwave, Inc. (2019-Present)
-- Modernizing affiliate marketing systems using LAMP stack and AWS
-- Leveraging AI-assisted development to accelerate innovation
-- Driving automation and cloud migration initiatives
+**Staff Software Engineer** at Skylight (2026-Present)
+- NBS (NEDDS (National Electronic Disease Surveillance System) Base System) team
+- Modernization of the RTR (Real-time reporting) system
 
 **Adjunct Professor** at Buffalo State University (2019-Present) 👨‍🏫
 - Teaching Programming for the Internet I, covering HTML5, CSS3, JavaScript
@@ -54,18 +53,3 @@ I'm Eric Nagel (he/him/his), a dynamic technology leader with 25+ years of exper
 ---
 
 💡 *Passionate about mentoring the next generation of developers while driving innovation through modern technology solutions.*
-
-<!--
-**ericnagel/ericnagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
