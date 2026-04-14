@@ -5,7 +5,7 @@ I'm Eric Nagel (he/him/his), a dynamic technology leader with 25+ years of exper
 ## 🚀 Current Roles
 
 **Staff Software Engineer** at [Skylight](https://github.com/skylight-hq) (2026-Present)
-- [CDC](https://github.com/CDCgov) NBS (NEDDS (National Electronic Disease Surveillance System) Base System) team
+- [CDC](https://github.com/CDCgov) NBS (NEDDS (National Electronic Disease Surveillance System) Base System) DRAGON 🐉 (Data Reporting And Generation Of Notifications) team
 - Modernization of the [NEDSS-DataReporting RTR (Real-time reporting)](https://github.com/CDCgov/NEDSS-DataReporting/) system
 
 **Adjunct Professor** at Buffalo State University (2019-Present) 👨‍🏫
